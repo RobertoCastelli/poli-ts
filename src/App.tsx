@@ -1,8 +1,12 @@
 import React from "react"
-import "./App.css"
+import Footer from "./components/Footer"
 
 function App() {
-	return <div>test</div>
+	return (
+		<>
+			<Footer />
+		</>
+	)
 }
 
 export default App
