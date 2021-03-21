@@ -1,0 +1,11 @@
+[33mcommit c6874cbd55377284066a392f647027f661add848[m[33m ([m[1;36mHEAD -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/new-branch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: RobertoCastelli <roberto.castelli.teal@gmail.com>
+Date:   Sun Mar 21 17:34:07 2021 +0100
+
+    first commit
+
+[33mcommit 99489de3992ab39d37da1a28ef6e2415e8143c0f[m
+Author: RobertoCastelli <roberto.castelli.teal@gmail.com>
+Date:   Sun Mar 21 17:23:31 2021 +0100
+
+    Initialize project using Create React App
